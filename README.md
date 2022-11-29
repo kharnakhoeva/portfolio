@@ -18,7 +18,7 @@
 
  | Проект | Задачи проекта |
 | :-----------| :----------- | 
-| [1. Определение возраста по фотографиям (https://github.com/kharnakhoeva/portfolio/blob/main/p15_supermarket/image_recognition_project15_kharnakhoeva.ipynb) | Задача: построить модель, которая по фотографии человека могла бы предсказывать его возраст|
+| [1. Определение возраста по фотографиям] (https://github.com/kharnakhoeva/portfolio/blob/main/p15_supermarket/image_recognition_project15_kharnakhoeva.ipynb) | Задача: построить модель, которая по фотографии человека могла бы предсказывать его возраст|
 
 
 
