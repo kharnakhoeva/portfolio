@@ -1,3 +1,5 @@
+(https://github.com/kharnakhoeva/portfolio/blob/main/15440802a87846e98df2971e7e8d8c35.jpg)
+
 # Обо мне
 
 Привет! Меня зовут Галина Харнахоева, и я начинающий data scientist. Здесь я представила часть моих проектов.
