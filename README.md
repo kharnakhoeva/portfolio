@@ -11,7 +11,7 @@
 * Почта: [kharnakhoeva@gmail.com](mailto:kharnakhoeva@gmail.com)
 * Telegram: [@kharnakhoeva](https://t.me/kharnakhoeva)
 
-Используемые технологии: python, numpy, sklearn, seaborn, pytorch, matplotlib, plotly, catboost, xgboost, lightgbm, SQL.
+Используемые технологии: Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, CatBoost, XGBoost, LightGBM, SQL.
 
 # Хакатоны
 
