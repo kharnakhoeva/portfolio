@@ -23,7 +23,7 @@
 
  | Проект | Задачи проекта | Стек |
 | :-----------| :----------- | :----------- |
-| [Промышленная обработка стали]([https://github.com/kharnakhoeva/portfolio/blob/main/p16_steel/final_project16_kharnakhoeva.ipynb](https://github.com/kharnakhoeva/portfolio/tree/main/p16_steel)) | Чтобы оптимизировать производственные расходы, металлургический комбинат ООО «Так закаляем сталь» решил уменьшить потребление электроэнергии на этапе обработки стали. Задача: построить модель, которая предскажет температуру стали | Python, Matplotlib, Seaborn, NumPy, Sklearn, CatBoost, LightGBM, XGBoost
+| [Промышленная обработка стали](https://github.com/kharnakhoeva/portfolio/tree/main/p16_steel) | Чтобы оптимизировать производственные расходы, металлургический комбинат ООО «Так закаляем сталь» решил уменьшить потребление электроэнергии на этапе обработки стали. Задача: построить модель, которая предскажет температуру стали | Python, Matplotlib, Seaborn, NumPy, Sklearn, CatBoost, LightGBM, XGBoost
 
 
 ## Портфолио ML- и DL-проектов
